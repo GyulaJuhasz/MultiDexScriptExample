@@ -1,3 +1,7 @@
+# UDATE
+
+The bug was fixed with the release of *26.0.0* of build tools by [this commit](https://android.googlesource.com/platform/dalvik/+/33f274bde1e1aa248c5cf78635d571770dd07179).
+
 # MultiDexScriptExample
 
 This example project demonstrates the bug in mainDexClasses.bat in the build tools folder.
